@@ -67,6 +67,7 @@ Babel is also used here to convert ES6+ code into a backwards compatible version
 * Supports up to 100 requests per hour
 * Search terms are limited. Search for "pizza" or another meal from this list 🡒 [Search Queries](https://forkify-api.herokuapp.com/phrases.html)
 * Only GET requests allowed
+***
 
 ## Have a Look 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e9c76589-6fef-4a96-89c6-3696097da1e1/deploy-status)](https://app.netlify.com/sites/ownzone/deploys)
