@@ -78,10 +78,9 @@ You can Search for "pizza" or another meal from this list 🡒 [Search Queries](
 We can increase the scope of search terms by using paid API's.
 ```
 
-* Links 
-```
+* Links- 
+
 [Recipe-Search-Application](https://ownzone.netlify.app) or [www.ownzone.club](https://ownzone.club)
-```
 ***
 
 
