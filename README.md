@@ -72,11 +72,12 @@ Babel is also used here to convert ES6+ code into a backwards compatible version
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e9c76589-6fef-4a96-89c6-3696097da1e1/deploy-status)](https://app.netlify.com/sites/ownzone/deploys)
 
 * Note
-```
-Click any one of the below links and try the given application. Note that Search terms are limited.
-You can Search for "pizza" or another meal from this list 🡒 [Search Queries](https://forkify-api.herokuapp.com/phrases.html).
-We can increase the scope of search terms by using paid API's.
-```
+
+>Click any one of the below links and try the given application. Note that Search terms are limited.
+>You can Search for "pizza" or another meal from this list 🡒 
+[Search Queries](https://forkify-api.herokuapp.com/phrases.html).
+>We can increase the scope of search terms by using paid API's.
+
 
 * Links- 
 
